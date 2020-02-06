@@ -1,0 +1,443 @@
+[
+  {
+    "_id": "5e3c269057d4923e50d4ef9d",
+    "index": 0,
+    "guid": "b4cf1324-86a9-4fe1-bde2-3bdeac463a09",
+    "isActive": false,
+    "name": "Deepends",
+    "carreras": [
+      {
+        "id": 0,
+        "name": "Pharmex"
+      },
+      {
+        "id": 1,
+        "name": "Twiist"
+      },
+      {
+        "id": 2,
+        "name": "Extragen"
+      },
+      {
+        "id": 3,
+        "name": "Shadease"
+      },
+      {
+        "id": 4,
+        "name": "Quonata"
+      },
+      {
+        "id": 5,
+        "name": "Emtrac"
+      },
+      {
+        "id": 6,
+        "name": "Spherix"
+      },
+      {
+        "id": 7,
+        "name": "Phormula"
+      },
+      {
+        "id": 8,
+        "name": "Twiggery"
+      },
+      {
+        "id": 9,
+        "name": "Helixo"
+      }
+    ]
+  },
+  {
+    "_id": "5e3c26901bf7d5290ce1d40f",
+    "index": 1,
+    "guid": "93042e2e-9228-493a-8c65-41d666ac8476",
+    "isActive": false,
+    "name": "Orbaxter",
+    "carreras": [
+      {
+        "id": 0,
+        "name": "Plexia"
+      },
+      {
+        "id": 1,
+        "name": "Imperium"
+      },
+      {
+        "id": 2,
+        "name": "Corpulse"
+      },
+      {
+        "id": 3,
+        "name": "Vicon"
+      },
+      {
+        "id": 4,
+        "name": "Austex"
+      },
+      {
+        "id": 5,
+        "name": "Poshome"
+      },
+      {
+        "id": 6,
+        "name": "Comtext"
+      },
+      {
+        "id": 7,
+        "name": "Joviold"
+      },
+      {
+        "id": 8,
+        "name": "Qnekt"
+      },
+      {
+        "id": 9,
+        "name": "Snorus"
+      }
+    ]
+  },
+  {
+    "_id": "5e3c2690af2df938811efa1f",
+    "index": 2,
+    "guid": "1930d0c8-59c3-41d4-b681-44eadd86145f",
+    "isActive": true,
+    "name": "Everest",
+    "carreras": [
+      {
+        "id": 0,
+        "name": "Zaphire"
+      },
+      {
+        "id": 1,
+        "name": "Zolarity"
+      },
+      {
+        "id": 2,
+        "name": "Supremia"
+      },
+      {
+        "id": 3,
+        "name": "Furnigeer"
+      },
+      {
+        "id": 4,
+        "name": "Insuresys"
+      },
+      {
+        "id": 5,
+        "name": "Exoswitch"
+      },
+      {
+        "id": 6,
+        "name": "Bovis"
+      },
+      {
+        "id": 7,
+        "name": "Elita"
+      },
+      {
+        "id": 8,
+        "name": "Digirang"
+      },
+      {
+        "id": 9,
+        "name": "Zilodyne"
+      }
+    ]
+  },
+  {
+    "_id": "5e3c2690a423ccc8f3f529d7",
+    "index": 3,
+    "guid": "c435bec5-20c5-4760-b981-eb8317a66144",
+    "isActive": true,
+    "name": "Quilm",
+    "carreras": [
+      {
+        "id": 0,
+        "name": "Eschoir"
+      },
+      {
+        "id": 1,
+        "name": "Petigems"
+      },
+      {
+        "id": 2,
+        "name": "Paprikut"
+      },
+      {
+        "id": 3,
+        "name": "Jasper"
+      },
+      {
+        "id": 4,
+        "name": "Pathways"
+      },
+      {
+        "id": 5,
+        "name": "Billmed"
+      },
+      {
+        "id": 6,
+        "name": "Cubix"
+      },
+      {
+        "id": 7,
+        "name": "Tropoli"
+      },
+      {
+        "id": 8,
+        "name": "Interloo"
+      },
+      {
+        "id": 9,
+        "name": "Acruex"
+      }
+    ]
+  },
+  {
+    "_id": "5e3c2690a897c9b28ac2c613",
+    "index": 4,
+    "guid": "6b1a0a4e-f254-4c55-9439-173803656a2a",
+    "isActive": false,
+    "name": "Medalert",
+    "carreras": [
+      {
+        "id": 0,
+        "name": "Sustenza"
+      },
+      {
+        "id": 1,
+        "name": "Entogrok"
+      },
+      {
+        "id": 2,
+        "name": "Bluplanet"
+      },
+      {
+        "id": 3,
+        "name": "Lovepad"
+      },
+      {
+        "id": 4,
+        "name": "Comtrail"
+      },
+      {
+        "id": 5,
+        "name": "Retrotex"
+      },
+      {
+        "id": 6,
+        "name": "Zillatide"
+      },
+      {
+        "id": 7,
+        "name": "Telepark"
+      },
+      {
+        "id": 8,
+        "name": "Prosure"
+      },
+      {
+        "id": 9,
+        "name": "Geekosis"
+      }
+    ]
+  },
+  {
+    "_id": "5e3c26904038f0acd25bc3b4",
+    "index": 5,
+    "guid": "29a57037-acf9-4458-927f-a6a14d53dfc6",
+    "isActive": true,
+    "name": "Polarium",
+    "carreras": [
+      {
+        "id": 0,
+        "name": "Roboid"
+      },
+      {
+        "id": 1,
+        "name": "Apextri"
+      },
+      {
+        "id": 2,
+        "name": "Zytrac"
+      },
+      {
+        "id": 3,
+        "name": "Gluid"
+      },
+      {
+        "id": 4,
+        "name": "Zolar"
+      },
+      {
+        "id": 5,
+        "name": "Capscreen"
+      },
+      {
+        "id": 6,
+        "name": "Flotonic"
+      },
+      {
+        "id": 7,
+        "name": "Danja"
+      },
+      {
+        "id": 8,
+        "name": "Zoid"
+      },
+      {
+        "id": 9,
+        "name": "Vortexaco"
+      }
+    ]
+  },
+  {
+    "_id": "5e3c2690e893fb2b5bb5308d",
+    "index": 6,
+    "guid": "72b7eb33-f011-4a5a-86b4-838a9f584286",
+    "isActive": false,
+    "name": "Geekola",
+    "carreras": [
+      {
+        "id": 0,
+        "name": "Telequiet"
+      },
+      {
+        "id": 1,
+        "name": "Bostonic"
+      },
+      {
+        "id": 2,
+        "name": "Squish"
+      },
+      {
+        "id": 3,
+        "name": "Zaggles"
+      },
+      {
+        "id": 4,
+        "name": "Coriander"
+      },
+      {
+        "id": 5,
+        "name": "Unisure"
+      },
+      {
+        "id": 6,
+        "name": "Skybold"
+      },
+      {
+        "id": 7,
+        "name": "Ebidco"
+      },
+      {
+        "id": 8,
+        "name": "Oceanica"
+      },
+      {
+        "id": 9,
+        "name": "Tellifly"
+      }
+    ]
+  },
+  {
+    "_id": "5e3c26901b7e0af8af56f794",
+    "index": 7,
+    "guid": "0adf01eb-f19b-4082-b8a4-1b873511f5bb",
+    "isActive": false,
+    "name": "Animalia",
+    "carreras": [
+      {
+        "id": 0,
+        "name": "Uberlux"
+      },
+      {
+        "id": 1,
+        "name": "Zilidium"
+      },
+      {
+        "id": 2,
+        "name": "Zidox"
+      },
+      {
+        "id": 3,
+        "name": "Puria"
+      },
+      {
+        "id": 4,
+        "name": "Snacktion"
+      },
+      {
+        "id": 5,
+        "name": "Jimbies"
+      },
+      {
+        "id": 6,
+        "name": "Zoarere"
+      },
+      {
+        "id": 7,
+        "name": "Microluxe"
+      },
+      {
+        "id": 8,
+        "name": "Quizmo"
+      },
+      {
+        "id": 9,
+        "name": "Synkgen"
+      }
+    ]
+  },
+  {
+    "_id": "5e3c26904605da6bcfe6beab",
+    "index": 8,
+    "guid": "21f97bcb-e13a-498e-95bc-9e5442633953",
+    "isActive": true,
+    "name": "Geoform",
+    "carreras": [
+      {
+        "id": 0,
+        "name": "Callflex"
+      },
+      {
+        "id": 1,
+        "name": "Hairport"
+      },
+      {
+        "id": 2,
+        "name": "Kyaguru"
+      },
+      {
+        "id": 3,
+        "name": "Visalia"
+      },
+      {
+        "id": 4,
+        "name": "Eargo"
+      },
+      {
+        "id": 5,
+        "name": "Acumentor"
+      },
+      {
+        "id": 6,
+        "name": "Solaren"
+      },
+      {
+        "id": 7,
+        "name": "Inear"
+      },
+      {
+        "id": 8,
+        "name": "Comvoy"
+      },
+      {
+        "id": 9,
+        "name": "Grainspot"
+      }
+    ]
+  }
+]
